@@ -1,0 +1,125 @@
+.roomChat {
+    position: absolute;
+    width: 139px;
+    height: 33px;
+    left: 1150px;
+    top: 23px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    line-height: 33px;
+    /* identical to box height */
+
+
+    color: #FFFFFF;
+}
+
+.bg {
+    position: relative;
+    width: 1440px;
+    height: 1024px;
+
+    background: #414141;
+}
+
+/* input from client */
+.chat-message--user {
+    background-color: #6BAFFF;
+    color: purple;
+}
+
+.chat-form {
+        
+    position: absolute;
+    width: 407px;
+    height: 41.35px;
+    left: 1016px;
+    top: 961px;
+
+    background: #FFFFFF;
+}
+
+/* where msgs go */
+.textBody {
+    position: absolute;
+    width: 440px;
+    height: 1024px;
+    left: 1000px;
+    top: 0px;
+
+    background: silver;
+}
+
+.chat-dump {
+    position: absolute;
+    width: 389px;
+    height: 57px;
+    left: 1025px;
+    top: 142px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 19px;
+}
+
+.leaveRoom {
+    position: absolute;
+    width: 89px;
+    height: 19px;
+    left: 30px;
+    top: 977px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.idSide {
+    background-color: yellow;
+}
+
+.id1 {
+    
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    left: 173px;
+    top: 217px;
+}
+
+.id2 {
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    left: 577px;
+    top: 217px;
+}
+
+.id3 {
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    left: 173px;
+    top: 595px;
+}
+
+.id4 {
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    left: 577px;
+    top: 595px;
+}
