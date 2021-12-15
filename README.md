@@ -1,3 +1,3 @@
 # studytime.StormHacks2021
-stormhacks 2021 hackathon project (unfinished 😔)
+Credits to: Stormhacks 2021 Hackathon (unfinished 😔)
 
