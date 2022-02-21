@@ -1,9 +1,10 @@
-# Credits to: Stormhacks 2021 Hackathon (unfinished 😔)
+# StudyTime: Stormhacks 2021 Hackathon
 
 Stack
 ---------
-- Server-side via node js
+- node hs web server
 - front-end via vanilla html / css (bootstrap) / JS 
+- communication between ends via socket.io 
 
 **Working Functionality**
 ---------------------------
