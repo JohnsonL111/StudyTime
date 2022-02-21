@@ -4,7 +4,7 @@
 
 Stack
 ---------
-- node hs web server
+- node js web server
 - front-end via vanilla html / css (bootstrap) / JS 
 - communication between ends via socket.io 
 
