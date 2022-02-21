@@ -1,5 +1,5 @@
-# StudyTime: Stormhacks 2021 Hackathon
-
+## StudyTime: Stormhacks 2021 Hackathon
+# Note: Incomplete project
 Stack
 ---------
 - node hs web server
